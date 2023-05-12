@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi ! I'm Nikan 👋<br>
+<h2 align="center">Hi ! I'm Mahdi 👋<br>
 </h2>
 
 ###
@@ -25,7 +25,7 @@ alt="animated image" height="350px"/>
 
 <br><br><br>
 
-- 🌱 I’m currently learning *web development*
+- 🌱 I’m currently learning **Machine Learning**
 
 ###
 
@@ -65,10 +65,10 @@ alt="animated image" height="350px"/>
 ###
 <div align="center">
     
-  <a href="mailto:codingwithenjoy@gmail.com" target="_blank">
+  <a href="mailto:panahpourmohamadmahdi62@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"  />
   </a>
-    <a href="https://discord.gg/Nikan#5973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="52" /></a>
+    <a href="https://discord.gg/Mahdi2007#3381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="52" /></a>
   </a>
 </div>
 
