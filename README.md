@@ -25,7 +25,7 @@ alt="animated image" height="350px"/>
 
 <br><br><br>
 
-- 🌱 I’m currently learning **Machine Learning and kivy**
+- 🌱 I’m currently learning **Machine Learning**
 
 ###
 
