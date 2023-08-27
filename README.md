@@ -50,26 +50,37 @@ alt="animated image" height="350px"/>
 
 <p align="left"></p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=MahdiTheProgrammer" height="150" alt="stats graph"  />
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=github_dark&hide_border=true&username=MahdiTheProgrammer" height="150" alt="languages graph"  />
-</div>
 
 ###
 
 <p align="left"></p>
 
 ###
+
+
 <div align="center">
-    
-  <a href="mailto:panahpourmohamadmahdi62@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"  />
-  </a>
-    <a href="https://discord.gg/Mahdi2007#3381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="52" /></a>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahdiTheProgrammer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiTheProgrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MahdiTheProgrammer&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/codingwithenjoy/](https://www.instagram.com/mahdi.panahpour/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:panahpourmohamadmahdi62@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+    <a href="https://join.skype.com/invite/gd7ZI66HdBCm" target="_blank">
+    <img src="https://icons-for-free.com/download-icon-skype+icon-1320192366103438270_512.png" width="40" height="40" alt="gmail logo"  />
+  </a>
+
+###
+
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 
 ###
