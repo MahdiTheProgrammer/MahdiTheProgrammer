@@ -69,7 +69,7 @@ alt="animated image" height="350px"/>
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/codingwithenjoy/](https://www.instagram.com/mahdi.panahpour/" target="_blank">
+  <a href="https://www.instagram.com/mahdi.panahpour/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:panahpourmohamadmahdi62@gmail.com" target="_blank">
