@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi ! I'm Mahdi 👋<br> Deep Learning And Application Developer
+<h2 align="center">Hi! I'm Mahdi 👋<br> Deep Learning And Application Developer
 </h2>
 
 
