@@ -26,7 +26,7 @@ alt="animated image" height="350px"/>
 
 <br><br><br>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **GANs and CNNs (Deep Learning)**
 - <a href="https://docs.google.com/document/d/1uoMz7S6fRGsYy2_L6Kd_pYD7JGX6Li3e/edit?usp=sharing&ouid=109998015315440659960&rtpof=true&sd=true">Click here for my resume.</a>
 
 ###
