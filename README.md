@@ -25,7 +25,7 @@ alt="animated image" height="350px"/>
 </div> 
 
 <br><br><br>
-
+- I love AI and GPUs (especially the ones with CUDA 😄)
 - 🌱 I’m currently learning **CUDA C++ , Data Structures And Algorithms, the math behind transfomers (Attention is all you need!)**
 - <a href="https://docs.google.com/document/d/1uoMz7S6fRGsYy2_L6Kd_pYD7JGX6Li3e/edit?usp=sharing&ouid=109998015315440659960&rtpof=true&sd=true"  target="_blank">Click here for my resume.</a>
 
